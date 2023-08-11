@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=website&logoColor=black" alt="Portfolio"/>
   </a>
  
-</div>
+</div><hr>
+
+### :man_technologist: About Me :
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<hr>
 
-### :man_technologist: About Me :
 I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :telescope: I’m working as a Frontend Developer and contributing to frontend and backend for building web applications.
 
