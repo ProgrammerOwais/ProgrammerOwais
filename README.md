@@ -11,8 +11,8 @@
   </a>
  
 </div>
-<br><br><br><br><br><br><br>
-<hr><br><br><br><br><br><br>
+<br><br><br>
+<hr><br><br>
 
 ### :man_technologist: About Me :
 <div align="center">
