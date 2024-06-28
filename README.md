@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/frontenddevexpert/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://programmerowais.github.io/MyPortfolio.github.io/">
+  <a href="https://programmerowais.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=website&logoColor=black" alt="Portfolio"/>
   </a>
  
